@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/literals.iml" filepath="$PROJECT_DIR$/literals.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/4th_day.iml" filepath="$PROJECT_DIR$/4th_day.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/3rd_day.iml" filepath="$PROJECT_DIR$/3rd_day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_complete/java_complete.iml" filepath="$PROJECT_DIR$/java_complete/java_complete.iml" />
+>>>>>>> 8724ec4f389d7eec3aa871a5770a454e108f709b
     </modules>
   </component>
 </project>
